@@ -1,6 +1,9 @@
 # nonsleep-screen
 
-This is a simple GTK-based program written in C that allows you to toggle sleep inhibition (preventing the screen from automatically turning off) on Ubuntu.
+This is a simple GTK-based program written in C that allows you to toggle sleep inhibition (preventing the screen from automatically turning off) on Ubuntu Desktop.
+
+![image](https://github.com/user-attachments/assets/08886d58-cbe9-4f60-8ed3-e96279cb815e)
+
 
 ## Requirements
 
