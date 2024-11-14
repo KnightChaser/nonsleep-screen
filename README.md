@@ -4,7 +4,6 @@ This is a simple GTK-based program written in C that allows you to toggle sleep 
 
 ![image](https://github.com/user-attachments/assets/08886d58-cbe9-4f60-8ed3-e96279cb815e)
 
-
 ## Requirements
 
 - **GTK 3** development libraries
@@ -29,3 +28,8 @@ This is a simple GTK-based program written in C that allows you to toggle sleep 
    ```bash
    ./main.out
 
+3. (Optional) If you want to register the compiled binary as an application for your Ubuntu Desktop, run `./register_as_app.sh` with a root(`sudo`) permission. It eliminates the need of manually opening the terminal, finding the path of `main.out` of this project, and manually run.
+
+    ```bash
+    sudo ./register_as_app.sh
+    ```
